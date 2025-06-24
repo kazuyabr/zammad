@@ -25552,3 +25552,7 @@ msgstr "∅ tempo de espera hoje"
 #~ "Intervalo de tempo no qual o atendente deve prestar outro retorno "
 #~ "informando as tratativas sobre o trabalho a ser feito ou que já esteja em "
 #~ "andamento para se resolver o chamado aberto."
+
+#: app/frontend/apps/desktop/pages/ticket/components/TicketSidebar/plugins/advanced.ts:12
+msgid "Advanced"
+msgstr "Avançado"

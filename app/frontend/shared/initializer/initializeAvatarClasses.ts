@@ -6,7 +6,7 @@ import type { AvatarClassMap } from '#shared/components/CommonAvatar/types.ts'
 let avatarClasses: AvatarClassMap = {
   base: 'common-avatar-base',
   vipUser: 'common-avatar-vip-user',
-  vipOrganization: 'common-avatar-vip-organization',
+  vipAdvanced: 'common-avatar-vip-advanced',
 }
 
 export const initializeAvatarClasses = (classes: AvatarClassMap) => {

@@ -47,6 +47,7 @@ const handleToggleInput = async () => {
           'border-b border-neutral-100 pb-2 dark:border-gray-900': subscribers.length,
         }"
       >
+      <h1>Olá Mundo!</h1>
         <FormKit
           type="toggle"
           :model-value="isSubscribed"
